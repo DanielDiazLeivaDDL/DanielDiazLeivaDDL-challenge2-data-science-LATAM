@@ -25,7 +25,7 @@ Este proyecto analiza el comportamiento de los clientes de una empresa de teleco
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+- Google Collab
 
 ---
 
