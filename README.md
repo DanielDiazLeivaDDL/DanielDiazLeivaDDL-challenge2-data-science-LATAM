@@ -44,14 +44,16 @@ Este proyecto analiza el comportamiento de los clientes de una empresa de teleco
      - Contrato
      - Método de pago
      - Gastos diarios y servicios
+    
+3. **Informe**
+   - Conclusiones clave con base en visualizaciones y correlaciones
+   - Recomendaciones estratégicas para retención de clientes
 
-3. **Correlación**
+4. **Correlación**
    - Cálculo de la correlación entre variables numéricas y `Churn`
    - Identificación de factores con mayor relación al abandono
 
-4. **Informe**
-   - Conclusiones clave con base en visualizaciones y correlaciones
-   - Recomendaciones estratégicas para retención de clientes
+
 
 ---
 
