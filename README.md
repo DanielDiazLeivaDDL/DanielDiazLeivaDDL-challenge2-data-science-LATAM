@@ -20,7 +20,7 @@ Este proyecto analiza el comportamiento de los clientes de una empresa de teleco
 
 ## 🧰 Tecnologías y librerías
 
-- Python 3.x
+- Python 3.10+
 - Pandas
 - NumPy
 - Matplotlib
